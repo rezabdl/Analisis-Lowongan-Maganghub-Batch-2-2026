@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MagangHub Batch 2 2026 — From Opportunity to Competition</title>
+  <meta name="description" content="Exploring internship opportunities, applicant demand, and competition across Indonesia. An editorial data journalism story.">
+  
+  <!-- Tailwind CSS via CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['Newsreader', 'Georgia', 'serif'],
+            sans: ['"Plus Jakarta Sans"', 'system-ui', '-apple-system', 'sans-serif'],
+            mono: ['"JetBrains Mono"', 'ui-monospace', 'monospace'],
+          },
+          colors: {
+            paper: '#FBFBFA',
+            'paper-subtle': '#F4F4F0',
+            ink: '#1A1A1A',
+            'ink-muted': '#57534E',
+            hairline: '#E7E5E4',
+            'hairline-dark': '#292524',
+            accent: {
+              rust: '#C2410C',
+              navy: '#1E293B',
+              slate: '#475569'
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Editorial Custom Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-paper text-ink min-h-screen selection:bg-stone-200 selection:text-stone-900">
+
+  <!-- TOP MINIMAL NAV / MASTHEAD -->
+  <header class="sticky top-0 z-40 bg-paper/95 backdrop-blur-sm editorial-border-b">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <a href="#hero" class="font-serif text-lg font-bold tracking-tight text-ink hover:text-stone-600 transition-colors">
+          MagangHub <span class="font-normal italic text-stone-500 text-sm">Batch 2 2026</span>
+        </a>
+        <span class="hidden sm:inline-block text-stone-300">/</span>
+        <span class="hidden sm:inline-block font-mono text-xs uppercase tracking-widest text-stone-500">
+          From Opportunity to Competition
+        </span>
+      </div>
+
+      <nav class="flex items-center gap-6 text-xs font-mono">
+        <a href="#big-picture" class="text-stone-600 hover:text-ink transition-colors">Overview</a>
+        <a href="#geography" class="text-stone-600 hover:text-ink transition-colors">Geography</a>
+        <a href="#competition" class="text-stone-600 hover:text-ink transition-colors">Competition</a>
+        <a href="#opportunity-explorer" class="text-stone-600 hover:text-ink transition-colors">Explorer</a>
+        <a href="#methodology" class="hidden sm:inline-block text-stone-600 hover:text-ink transition-colors">Methodology</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- ============================================================= -->
+    <!-- 1. HERO SECTION -->
+    <!-- ============================================================= -->
+    <section id="hero" class="pt-20 pb-24 sm:pt-28 sm:pb-32 editorial-border-b bg-paper">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6">
+        
+        <!-- Metadata Kicker -->
+        <div class="flex items-center gap-3 mb-6">
+          <span class="editorial-tag">Batch 2 2026</span>
+          <span class="font-mono text-xs text-stone-400">·</span>
+          <span class="font-mono text-xs uppercase tracking-widest text-stone-500">Editorial Data Story</span>
+          <span class="font-mono text-xs text-stone-400">·</span>
+          <span class="font-mono text-xs text-stone-500">Nasional</span>
+        </div>
+
+        <!-- Title -->
+        <h1 class="font-serif text-5xl sm:text-6xl md:text-7xl font-bold tracking-tight text-ink leading-[1.08] mb-6">
+          MagangHub Batch 2 2026
+        </h1>
+
+        <!-- Subtitle -->
+        <p class="font-serif italic text-2xl sm:text-3xl text-stone-700 leading-snug mb-8 max-w-3xl">
+          Exploring internship opportunities, applicant demand, and competition across Indonesia.
+        </p>
+
+        <!-- Concept & Lead In -->
+        <div class="editorial-border-l pl-5 my-8 max-w-2xl text-stone-600 text-base sm:text-lg leading-relaxed">
+          <p class="font-medium text-stone-900 mb-2">
+            The Concept: <span class="italic font-serif text-amber-900">“From Opportunity to Competition”</span>
+          </p>
+          <p class="text-sm sm:text-base text-stone-600 leading-relaxed">
+            Di balik puluhan ribu kursi magang yang dipublikasikan secara terbuka, tersimpan dinamika struktural ketat: konsentrasi geografis di pulau Jawa, disparitas peminat antar-sektor, dan fenomena di mana kuota besar justru menarik lonjakan pelamar yang eksponensial.
+          </p>
+        </div>
+
+        <!-- Buttons -->
+        <div class="flex flex-wrap items-center gap-4 mt-10">
+          <a href="#big-picture" class="inline-flex items-center justify-center px-6 py-3 rounded text-sm font-mono font-medium bg-ink text-white hover:bg-stone-800 transition-colors shadow-sm">
+            Explore the Data ↓
+          </a>
+          <a href="#methodology" class="inline-flex items-center justify-center px-6 py-3 rounded text-sm font-mono font-medium border border-stone-300 bg-white text-stone-800 hover:bg-stone-50 transition-colors">
+            View Methodology →
+          </a>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ============================================================= -->
+    <!-- 2. BIG PICTURE SECTION -->
+    <!-- ============================================================= -->
+    <section id="big-picture" class="py-24 sm:py-32 editorial-border-b bg-paper-subtle">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        
+        <!-- Section Header -->
+        <div class="max-w-3xl mb-16">
+          <div class="font-mono text-xs uppercase tracking-widest text-stone-500 mb-2">01 // Macro Overview</div>
+          <h2 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-ink mb-4">
+            How large is the internship ecosystem?
+          </h2>
+          <p class="text-stone-600 text-base sm:text-lg leading-relaxed">
+            Data agregat MagangHub Batch 2 2026 memperlihatkan skala ekosistem pemagangan berskala nasional, merangkum ribuan korporasi swasta, BUMN, kementerian, hingga instansi daerah.
+          </p>
+        </div>
+
+        <!-- 4 Large Editorial Statistics (Broadside Layout) -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12 pt-8 editorial-rule-thick">
+          
+          <!-- Stat 1 -->
+          <div class="flex flex-col justify-between">
+            <div>
+              <div class="font-mono text-xs uppercase tracking-wider text-stone-500 mb-2">Total Lowongan</div>
+              <div id="stat-postings" class="font-mono text-5xl sm:text-6xl font-bold tracking-tight text-ink">
+                22,477
+              </div>
+              <div class="font-serif text-lg font-medium text-stone-800 mt-2">
+                Internship postings
+              </div>
+            </div>
+            <p class="text-xs text-stone-500 mt-4 leading-relaxed editorial-border-t pt-3">
+              Total judul posisi unik yang dibuka oleh seluruh instansi terdaftar pada periode batch ini.
+            </p>
+          </div>
+
+          <!-- Stat 2 -->
+          <div class="flex flex-col justify-between">
+            <div>
+              <div class="font-mono text-xs uppercase tracking-wider text-stone-500 mb-2">Kapasitas Kursi</div>
+              <div id="stat-positions" class="font-mono text-5xl sm:text-6xl font-bold tracking-tight text-ink">
+                47,850
+              </div>
+              <div class="font-serif text-lg font-medium text-stone-800 mt-2">
+                Available positions
+              </div>
+            </div>
+            <p class="text-xs text-stone-500 mt-4 leading-relaxed editorial-border-t pt-3">
+              Akumulasi kuota bangku magang yang dialokasikan, rata-rata 2.1 kursi per lowongan terbuka.
+            </p>
+          </div>
+
+          <!-- Stat 3 -->
+          <div class="flex flex-col justify-between">
+            <div>
+              <div class="font-mono text-xs uppercase tracking-wider text-stone-500 mb-2">Total Pendaftar</div>
+              <div id="stat-applicants" class="font-mono text-5xl sm:text-6xl font-bold tracking-tight text-ink">
+                418K
+              </div>
+              <div class="font-serif text-lg font-medium text-stone-800 mt-2">
+                Applicants
+              </div>
+            </div>
+            <p class="text-xs text-stone-500 mt-4 leading-relaxed editorial-border-t pt-3">
+              Volume akumulatif berkas lamaran yang diajukan oleh mahasiswa dan lulusan baru se-Indonesia.
+            </p>
+          </div>
+
+          <!-- Stat 4 -->
+          <div class="flex flex-col justify-between">
+            <div>
+              <div class="font-mono text-xs uppercase tracking-wider text-stone-500 mb-2">Tingkat Persaingan</div>
+              <div id="stat-ratio" class="font-mono text-5xl sm:text-6xl font-bold tracking-tight text-amber-900">
+                8.7×
+              </div>
+              <div class="font-serif text-lg font-medium text-stone-800 mt-2">
+                Competition ratio
+              </div>
+            </div>
+            <p class="text-xs text-stone-500 mt-4 leading-relaxed editorial-border-t pt-3">
+              Rata-rata nasional: hampir 9 kandidat bersaing memperebutkan setiap 1 kuota kursi yang tersedia.
+            </p>
+          </div>
+
+        </div>
+
+        <!-- Editorial Footnote Note -->
+        <div class="mt-16 p-4 bg-white border border-stone-200 rounded text-xs text-stone-600 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+          <div class="flex items-center gap-2">
+            <span class="w-2 h-2 rounded-full bg-stone-900"></span>
+            <span class="font-mono uppercase font-semibold text-stone-700">Catatan Analitis:</span>
+            <span>Rasio kompetisi dihitung sebagai <code>Pelamar / Kuota Kursi</code>. Angka ini merefleksikan desitas persaingan, bukan probabilitas statistik penerimaan individu.</span>
+          </div>
+          <span class="font-mono text-stone-400 shrink-0">Data Snapshot · Batch 2 2026</span>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ============================================================= -->
+    <!-- 3. GEOGRAPHY SECTION -->
+    <!-- ============================================================= -->
+    <section id="geography" class="py-24 sm:py-32 editorial-border-b bg-paper">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        
+        <!-- Section Header -->
+        <div class="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
+          <div class="max-w-2xl">
+            <div class="font-mono text-xs uppercase tracking-widest text-stone-500 mb-2">02 // Spatial Distribution</div>
+            <h2 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-ink mb-3">
+              Where are the opportunities?
+            </h2>
+            <p class="text-stone-600 text-sm sm:text-base leading-relaxed">
+              Persebaran peluang magang masih bertumpu signifikan pada episentrum ekonomi pulau Jawa, sementara wilayah luar Jawa menampilkan dinamika kuota yang lebih terspesialisasi.
+            </p>
+          </div>
+
+          <!-- Metric Switchers -->
+          <div class="flex flex-wrap items-center gap-2 shrink-0">
+            <span class="font-mono text-xs text-stone-400 mr-1">Metrik:</span>
+            <button class="map-metric-btn px-3 py-1.5 rounded text-xs font-mono border border-stone-900 bg-stone-900 text-white transition-colors" data-metric="postings">
+              Lowongan
+            </button>
+            <button class="map-metric-btn px-3 py-1.5 rounded text-xs font-mono border border-stone-200 bg-white text-stone-700 hover:bg-stone-50 transition-colors" data-metric="quota">
+              Kuota
+            </button>
+            <button class="map-metric-btn px-3 py-1.5 rounded text-xs font-mono border border-stone-200 bg-white text-stone-700 hover:bg-stone-50 transition-colors" data-metric="applicants">
+              Pelamar
+            </button>
+            <button class="map-metric-btn px-3 py-1.5 rounded text-xs font-mono border border-stone-200 bg-white text-stone-700 hover:bg-stone-50 transition-colors" data-metric="ratio">
+              Keketatan (Ratio)
+            </button>
+          </div>
+        </div>
+
+        <!-- Grid: Map Viewport + Province Detail Sidebar -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+          
+          <!-- Map Canvas Container (8 cols) -->
+          <div class="lg:col-span-8 bg-stone-50 border border-stone-200 rounded-lg p-4 sm:p-6 relative shadow-sm">
+            <div class="flex items-center justify-between text-xs text-stone-500 mb-3 font-mono">
+              <span>PETA PERSEBARAN PROVINSI INDONESIA</span>
+              <span>Arahkan kursor atau klik wilayah untuk detail</span>
+            </div>
+
+            <!-- SVG Map Mount Point -->
+            <div id="indonesia-map-container" class="w-full relative min-h-[320px] flex items-center justify-center">
+              <!-- Rendered via app.js -->
+            </div>
+
+            <!-- Map Legend -->
+            <div class="editorial-border-t pt-4 mt-4 flex flex-wrap items-center justify-between text-xs text-stone-500 font-mono gap-4">
+              <div class="flex items-center gap-2">
+                <span>Rendah</span>
+                <span class="inline-block w-4 h-3 bg-slate-300 rounded-sm"></span>
+                <span class="inline-block w-4 h-3 bg-slate-400 rounded-sm"></span>
+                <span class="inline-block w-4 h-3 bg-slate-600 rounded-sm"></span>
+                <span class="inline-block w-4 h-3 bg-slate-900 rounded-sm"></span>
+                <span>Tinggi</span>
+              </div>
+              <div class="text-stone-400">
+                Pola proyeksi berbasis koordinat kepulauan
+              </div>
+            </div>
+          </div>
+
+          <!-- Province Detail & Leaderboard Card (4 cols) -->
+          <div class="lg:col-span-4 flex flex-col gap-6">
+            
+            <!-- Focused Province Card -->
+            <div id="province-detail-card" class="bg-white border border-stone-200 rounded-lg p-6 shadow-sm">
+              <!-- Injected by app.js -->
+            </div>
+
+            <!-- Top 5 Provinces Leaderboard -->
+            <div class="bg-white border border-stone-200 rounded-lg p-5">
+              <div class="flex items-center justify-between editorial-border-b pb-2 mb-3">
+                <span class="font-mono text-xs uppercase font-semibold text-stone-700">Top 5 Wilayah Terbanyak</span>
+                <span class="font-mono text-[11px] text-stone-400">Pangsa Lowongan</span>
+              </div>
+              <div id="province-leaderboard" class="divide-y divide-stone-100">
+                <!-- Injected by app.js -->
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+        <!-- Geographic Analytical Narrative Explanation -->
+        <div class="mt-12 p-6 bg-paper-subtle border-l-2 border-stone-800 text-stone-700 text-sm sm:text-base leading-relaxed">
+          <p class="font-serif italic text-lg text-stone-900 mb-2">
+            Konsentrasi Jawa dan Paradoks Akses Luar Daerah
+          </p>
+          <p>
+            DKI Jakarta, Jawa Barat, dan Jawa Timur secara kumulatif menguasai lebih dari <strong>70% total lowongan</strong> nasional. Kendati demikian, rasio keketatan di kota-kota pusat riset seperti Yogyakarta (9.0×) dan Jakarta (10.0×) menunjukkan bahwa konsentrasi kuota berbanding lurus dengan membludaknya pelamar dari seluruh penjuru tanah air.
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ============================================================= -->
+    <!-- 4. COMPETITION SECTION -->
+    <!-- ============================================================= -->
+    <section id="competition" class="py-24 sm:py-32 editorial-border-b bg-paper-subtle">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        
+        <!-- Section Header -->
+        <div class="max-w-3xl mb-12">
+          <div class="font-mono text-xs uppercase tracking-widest text-stone-500 mb-2">03 // Correlation & Dynamics</div>
+          <h2 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-ink mb-4">
+            Does more quota mean less competition?
+          </h2>
+          <p class="text-stone-600 text-base sm:text-lg leading-relaxed">
+            Asumsi umum mengira bahwa lowongan dengan kuota kursi besar memberikan peluang masuk yang lebih lapang. Pengujian statistik terhadap dataset MagangHub Batch 2 2026 justru menunjukkan dinamika sebaliknya.
+          </p>
+        </div>
+
+        <!-- Metric Highlight Callout (Editorial Style) -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+          
+          <div class="bg-white border border-stone-200 p-6 rounded-lg md:col-span-1 flex flex-col justify-between">
+            <div>
+              <div class="font-mono text-xs uppercase tracking-widest text-stone-500 mb-1">Koefisien Korelasi</div>
+              <div class="font-mono text-4xl sm:text-5xl font-bold text-stone-900 mb-2">
+                r = 0.743
+              </div>
+              <div class="text-xs font-mono font-medium text-amber-800 bg-amber-50 border border-amber-200 px-2.5 py-1 rounded inline-block">
+                Korelasi Positif Kuat (p &lt; 0.001)
+              </div>
+            </div>
+            
+            <div class="mt-6 pt-4 editorial-border-t text-xs text-stone-600 leading-relaxed">
+              <strong class="text-stone-900 block mb-1">Pearson correlation: 0.743</strong>
+              “Listings with larger quotas tend to attract more applicants. This relationship does not imply causation.”
+            </div>
+          </div>
+
+          <!-- Explanation Callout -->
+          <div class="bg-white border border-stone-200 p-6 rounded-lg md:col-span-2 flex flex-col justify-center">
+            <h4 class="font-serif text-xl font-bold text-stone-900 mb-2">
+              Mengapa Kuota Besar Menarik Lebih Banyak Pesaing?
+            </h4>
+            <p class="text-stone-600 text-sm leading-relaxed mb-3">
+              Program dengan kuota besar (15–35 kursi) umumnya berasal dari institusi bergengsi—seperti BUMN perbankan, konglomerasi multinasional, dan kementerian strategis. Reputasi nama besar dan daya tarik kompensasi memicu gelombang pelamar masif, sehingga rasio pelamar per kursi tetap tinggi atau bahkan melampaui lowongan berskala kecil.
+            </p>
+            <div class="flex items-center gap-4 text-xs font-mono text-stone-500 pt-3 border-t border-stone-100">
+              <span class="flex items-center gap-1.5"><span class="w-3 h-0.5 bg-stone-900 inline-block"></span> Garis Regresi Parametrik</span>
+              <span class="flex items-center gap-1.5"><span class="w-3 h-2 bg-stone-200 inline-block"></span> Interval Keyakinan (±1σ)</span>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Scatter Plot Canvas Container -->
+        <div class="bg-white border border-stone-200 rounded-lg p-4 sm:p-6 shadow-sm">
+          
+          <!-- Category Filter Bar -->
+          <div class="flex flex-wrap items-center justify-between gap-4 pb-4 mb-4 editorial-border-b text-xs font-mono">
+            <div class="flex items-center gap-2">
+              <span class="text-stone-400">Filter Sektor Lowongan:</span>
+              <button class="scatter-cat-pill px-3 py-1 rounded border border-stone-900 bg-stone-900 text-white transition-colors" data-cat="All">Semua</button>
+              <button class="scatter-cat-pill px-3 py-1 rounded border border-stone-200 bg-white text-stone-700 hover:bg-stone-50 transition-colors" data-cat="BUMN">BUMN</button>
+              <button class="scatter-cat-pill px-3 py-1 rounded border border-stone-200 bg-white text-stone-700 hover:bg-stone-50 transition-colors" data-cat="Tech">Teknologi</button>
+              <button class="scatter-cat-pill px-3 py-1 rounded border border-stone-200 bg-white text-stone-700 hover:bg-stone-50 transition-colors" data-cat="Government">Kementerian/Lembaga</button>
+              <button class="scatter-cat-pill px-3 py-1 rounded border border-stone-200 bg-white text-stone-700 hover:bg-stone-50 transition-colors" data-cat="Corporate">Swasta</button>
+            </div>
+            <div class="text-stone-400">
+              Hover titik data untuk melihat rincian posisi
+            </div>
+          </div>
+
+          <!-- Scatter Plot SVG -->
+          <div class="w-full overflow-x-auto">
+            <svg id="scatter-plot-svg" viewBox="0 0 860 480" class="w-full min-w-[650px] h-auto select-none">
+              <!-- Rendered via app.js -->
+            </svg>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ============================================================= -->
+    <!-- 5. OPPORTUNITY EXPLORER SECTION -->
+    <!-- ============================================================= -->
+    <section id="opportunity-explorer" class="py-24 sm:py-32 editorial-border-b bg-paper">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        
+        <!-- Section Header -->
+        <div class="max-w-3xl mb-12">
+          <div class="font-mono text-xs uppercase tracking-widest text-stone-500 mb-2">04 // Directory & Discovery</div>
+          <h2 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-ink mb-4">
+            Explore the opportunities
+          </h2>
+          <p class="text-stone-600 text-base sm:text-lg leading-relaxed">
+            Saring dan telusuri karakteristik lowongan magang berdasarkan kata kunci, wilayah provinsi, rumpun keilmuan, jenjang studi, hingga tingkat rasio keketatan.
+          </p>
+        </div>
+
+        <!-- Interactive Search & Filter Controls -->
+        <div class="bg-stone-50 border border-stone-200 rounded-lg p-5 mb-8 shadow-sm">
+          
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+            
+            <!-- 1. Keyword Search -->
+            <div class="lg:col-span-2">
+              <label for="explorer-search" class="block font-mono text-xs text-stone-500 uppercase mb-1">
+                Pencarian Kata Kunci
+              </label>
+              <input type="text" id="explorer-search" placeholder="Cari posisi, instansi, kota, jurusan..."
+                class="w-full px-3 py-2 text-sm bg-white border border-stone-300 rounded focus:outline-none focus:border-stone-900 transition-colors placeholder:text-stone-400">
+            </div>
+
+            <!-- 2. Province Filter -->
+            <div>
+              <label for="explorer-province" class="block font-mono text-xs text-stone-500 uppercase mb-1">
+                Provinsi
+              </label>
+              <select id="explorer-province" class="w-full px-3 py-2 text-sm bg-white border border-stone-300 rounded focus:outline-none focus:border-stone-900 transition-colors">
+                <option value="All">Semua Provinsi</option>
+                <option value="DKI Jakarta">DKI Jakarta</option>
+                <option value="Jawa Barat">Jawa Barat</option>
+                <option value="Jawa Timur">Jawa Timur</option>
+                <option value="Jawa Tengah">Jawa Tengah</option>
+                <option value="DI Yogyakarta">DI Yogyakarta</option>
+                <option value="Banten">Banten</option>
+                <option value="Sumatera Utara">Sumatera Utara</option>
+                <option value="Bali">Bali</option>
+                <option value="Sulawesi Selatan">Sulawesi Selatan</option>
+              </select>
+            </div>
+
+            <!-- 3. Field / Bidang -->
+            <div>
+              <label for="explorer-field" class="block font-mono text-xs text-stone-500 uppercase mb-1">
+                Bidang / Rumpun
+              </label>
+              <select id="explorer-field" class="w-full px-3 py-2 text-sm bg-white border border-stone-300 rounded focus:outline-none focus:border-stone-900 transition-colors">
+                <option value="All">Semua Bidang</option>
+                <option value="Data & AI">Data & AI</option>
+                <option value="Software Engineering">Software Engineering</option>
+                <option value="Business & Management">Business & Management</option>
+                <option value="Finance & Accounting">Finance & Accounting</option>
+                <option value="Communication & PR">Communication & PR</option>
+                <option value="Design & Creative">Design & Creative</option>
+                <option value="Engineering">Engineering / Teknik</option>
+                <option value="Public Service">Public Service</option>
+              </select>
+            </div>
+
+            <!-- 4. Education Level -->
+            <div>
+              <label for="explorer-education" class="block font-mono text-xs text-stone-500 uppercase mb-1">
+                Jenjang Studi
+              </label>
+              <select id="explorer-education" class="w-full px-3 py-2 text-sm bg-white border border-stone-300 rounded focus:outline-none focus:border-stone-900 transition-colors">
+                <option value="All">Semua Jenjang</option>
+                <option value="D3 / Vocational">D3 / Vokasi</option>
+                <option value="D4 / S1">D4 / S1</option>
+                <option value="S2 / Postgraduate">S2 / Pascasarjana</option>
+              </select>
+            </div>
+
+          </div>
+
+          <!-- Secondary Row: Competition Filter, Sort & Reset -->
+          <div class="flex flex-wrap items-center justify-between gap-4 mt-4 pt-4 border-t border-stone-200 text-xs font-mono">
+            
+            <div class="flex flex-wrap items-center gap-3">
+              <span class="text-stone-500">Tingkat Keketatan:</span>
+              <select id="explorer-competition" class="px-2.5 py-1.5 text-xs bg-white border border-stone-300 rounded focus:outline-none focus:border-stone-900">
+                <option value="All">Semua Tingkat</option>
+                <option value="low">Rendah (&lt; 8×)</option>
+                <option value="moderate">Moderat (8× - 14×)</option>
+                <option value="fierce">Sangat Ketat (&gt; 14×)</option>
+              </select>
+
+              <span class="text-stone-500 ml-2">Urutkan:</span>
+              <select id="explorer-sort" class="px-2.5 py-1.5 text-xs bg-white border border-stone-300 rounded focus:outline-none focus:border-stone-900">
+                <option value="ratio-desc">Keketatan Tertinggi ↓</option>
+                <option value="ratio-asc">Keketatan Terendah ↑</option>
+                <option value="quota-desc">Kuota Terbanyak ↓</option>
+                <option value="quota-asc">Kuota Paling Sedikit ↑</option>
+                <option value="applicants-desc">Pelamar Terbanyak ↓</option>
+              </select>
+            </div>
+
+            <button id="explorer-reset" class="text-stone-500 hover:text-stone-900 underline underline-offset-4">
+              Reset Semua Filter
+            </button>
+
+          </div>
+
+        </div>
+
+        <!-- Result Metadata -->
+        <div class="flex items-center justify-between text-xs font-mono text-stone-500 mb-3 px-1">
+          <span id="explorer-results-count">Memuat lowongan...</span>
+          <span class="hidden sm:inline">Klik baris lowongan untuk memeriksa silabus & kriteria lengkap</span>
+        </div>
+
+        <!-- Listings Container (Editorial Table/Card List) -->
+        <div class="bg-white border border-stone-200 rounded-lg overflow-hidden shadow-sm">
+          
+          <!-- Table Header -->
+          <div class="hidden md:flex items-center justify-between px-4 py-3 bg-stone-100 font-mono text-xs uppercase text-stone-500 tracking-wider editorial-border-b">
+            <div class="flex-1">Posisi & Instansi</div>
+            <div class="flex items-center gap-6">
+              <div class="w-20 text-right">Kuota</div>
+              <div class="w-20 text-right">Pelamar</div>
+              <div class="w-24 text-right">Keketatan</div>
+              <div class="w-20 text-right">Aksi</div>
+            </div>
+          </div>
+
+          <!-- Dynamic Rows -->
+          <div id="listings-container" class="divide-y divide-stone-100">
+            <!-- Injected by app.js -->
+          </div>
+
+        </div>
+
+        <!-- Pagination -->
+        <div id="explorer-pagination" class="mt-6 flex justify-center">
+          <!-- Injected by app.js -->
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ============================================================= -->
+    <!-- 6. METHODOLOGY SECTION -->
+    <!-- ============================================================= -->
+    <section id="methodology" class="py-24 sm:py-32 editorial-border-b bg-paper-subtle">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        
+        <!-- Section Header -->
+        <div class="max-w-3xl mb-16">
+          <div class="font-mono text-xs uppercase tracking-widest text-stone-500 mb-2">05 // Provenance & Rigor</div>
+          <h2 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-ink mb-4">
+            How this analysis was built
+          </h2>
+          <p class="text-stone-600 text-base sm:text-lg leading-relaxed">
+            Menjunjung tinggi prinsip reproduksibilitas sains data dan jurnalisme visual. Alur pemrosesan dirancang secara transparan dari pengumpulan data mentah hingga penyajian interaktif.
+          </p>
+        </div>
+
+        <!-- Visual Process Pipeline (Horizontal Flow) -->
+        <div class="mb-12">
+          
+          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3" id="methodology-steps-container">
+            <!-- Injected by app.js -->
+          </div>
+
+        </div>
+
+        <!-- Detailed Stage Card Mount -->
+        <div id="methodology-detail-container" class="max-w-4xl mx-auto">
+          <!-- Injected by app.js -->
+        </div>
+
+        <!-- Methodological Formulas & Disclaimers -->
+        <div class="mt-16 grid grid-cols-1 md:grid-cols-2 gap-8 pt-12 editorial-border-t">
+          <div>
+            <h4 class="font-serif text-xl font-bold text-stone-900 mb-2">Definisi Competition Ratio</h4>
+            <div class="bg-white border border-stone-200 p-4 rounded font-mono text-sm text-stone-800 mb-3">
+              Competition Ratio = Total Applicants / Total Quota Seats
+            </div>
+            <p class="text-xs text-stone-600 leading-relaxed">
+              Metrik ini mengukur desitas permintaan kandidat per 1 kursi yang diperebutkan. Nilai yang lebih tinggi merefleksikan atensi dan persaingan yang lebih ketat, bukan probabilitas matematis diterimanya seorang individu.
+            </p>
+          </div>
+
+          <div>
+            <h4 class="font-serif text-xl font-bold text-stone-900 mb-2">Penanganan Multi-Major (Jurusan)</h4>
+            <div class="bg-white border border-stone-200 p-4 rounded font-mono text-sm text-stone-800 mb-3">
+              Unnested Unique Postings per Major Count
+            </div>
+            <p class="text-xs text-stone-600 leading-relaxed">
+              Satu lowongan dapat mencantumkan lebih dari satu program studi. Dalam analisis rumpun keilmuan, entri dipisahkan secara hierarkis tanpa menduplikasi nilai kuota lowongan induk.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============================================================= -->
+  <!-- 7. FOOTER SECTION -->
+  <!-- ============================================================= -->
+  <footer class="py-16 bg-paper editorial-border-t">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      
+      <div class="flex flex-col md:flex-row justify-between items-start md:items-end gap-8 pb-12 editorial-border-b">
+        <div>
+          <span class="editorial-tag mb-3 inline-block">Portfolio-grade prototype</span>
+          <h3 class="font-serif text-2xl sm:text-3xl font-bold text-stone-900 tracking-tight">
+            MagangHub Batch 2 2026
+          </h3>
+          <p class="font-serif italic text-base text-stone-600 mt-1">
+            Interactive Data Story: From Opportunity to Competition
+          </p>
+        </div>
+
+        <!-- Creator & Links -->
+        <div class="text-left md:text-right">
+          <div class="font-mono text-xs uppercase text-stone-400 mb-1">Author & Data Scientist</div>
+          <div class="font-serif text-lg font-semibold text-stone-900">Reza Irwansyah Aryanto</div>
+          <div class="text-xs text-stone-500 font-mono mt-0.5">Alumni Universitas Teknologi Yogyakarta · Data Science</div>
+
+          <!-- Social Links -->
+          <div class="flex items-center md:justify-end gap-4 mt-3 text-xs font-mono">
+            <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="text-stone-700 hover:text-stone-950 underline underline-offset-4">
+              GitHub →
+            </a>
+            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" class="text-stone-700 hover:text-stone-950 underline underline-offset-4">
+              LinkedIn →
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Copyright & Notes -->
+      <div class="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs font-mono text-stone-400 gap-4">
+        <div>
+          © 2026 MagangHub Data Investigation. Built with UI/UX Pro Max Editorial Guidelines.
+        </div>
+        <div>
+          Visual prototype · Non-connected dummy dataset
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+  <!-- ============================================================= -->
+  <!-- TOOLTIPS & DETAIL MODAL -->
+  <!-- ============================================================= -->
+  
+  <!-- Map Tooltip -->
+  <div id="map-tooltip" class="fixed bg-white border border-stone-200 p-3 rounded shadow-lg text-xs font-sans opacity-0 transition-opacity pointer-events-none z-50"></div>
+
+  <!-- Scatter Chart Tooltip -->
+  <div id="chart-tooltip" class="fixed bg-white border border-stone-200 p-3 rounded shadow-lg text-xs font-sans opacity-0 transition-opacity pointer-events-none z-50 w-64"></div>
+
+  <!-- Opportunity Detail Modal / Drawer -->
+  <div id="detail-modal" class="fixed inset-0 z-50 flex items-center justify-center p-4 modal-backdrop hidden">
+    <div class="bg-white border border-stone-200 rounded-lg max-w-2xl w-full max-h-[90vh] overflow-y-auto p-6 sm:p-8 shadow-2xl modal-content relative">
+      
+      <!-- Close Button -->
+      <button id="modal-close-btn" class="absolute top-6 right-6 text-stone-400 hover:text-stone-900 font-mono text-lg p-1">
+        ✕
+      </button>
+
+      <div class="editorial-border-b pb-4 mb-6">
+        <div class="flex items-center gap-2 mb-2">
+          <span id="modal-badge" class="editorial-tag">BUMN</span>
+          <span id="modal-location" class="font-mono text-xs text-stone-500">Jakarta Selatan</span>
+        </div>
+        <h3 id="modal-title" class="font-serif text-2xl sm:text-3xl font-bold text-stone-900 leading-snug">
+          Position Title
+        </h3>
+        <div id="modal-institution" class="text-sm font-medium text-stone-700 mt-1">
+          Institution Name
+        </div>
+      </div>
+
+      <!-- Quick Metrics Grid -->
+      <div class="grid grid-cols-3 gap-3 bg-stone-50 p-4 rounded border border-stone-200 mb-6 text-center">
+        <div>
+          <div class="font-mono text-[11px] uppercase text-stone-400">Kuota Kursi</div>
+          <div id="modal-quota" class="font-mono text-base font-bold text-stone-900 mt-0.5">-</div>
+        </div>
+        <div>
+          <div class="font-mono text-[11px] uppercase text-stone-400">Total Pelamar</div>
+          <div id="modal-applicants" class="font-mono text-base font-bold text-stone-900 mt-0.5">-</div>
+        </div>
+        <div>
+          <div class="font-mono text-[11px] uppercase text-stone-400">Keketatan</div>
+          <div id="modal-ratio" class="font-mono text-base font-bold text-amber-800 mt-0.5">-</div>
+        </div>
+      </div>
+
+      <!-- Details List -->
+      <div class="space-y-4 text-sm text-stone-700">
+        <div>
+          <h5 class="font-mono text-xs uppercase font-semibold text-stone-400 mb-1">Deskripsi & Peran Pekerjaan</h5>
+          <p id="modal-description" class="leading-relaxed bg-paper p-3 rounded border border-stone-100">
+            -
+          </p>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4">
+          <div>
+            <h5 class="font-mono text-xs uppercase font-semibold text-stone-400 mb-1">Skema Kerja</h5>
+            <div id="modal-workmode" class="font-medium text-stone-900">-</div>
+          </div>
+          <div>
+            <h5 class="font-mono text-xs uppercase font-semibold text-stone-400 mb-1">Durasi Program</h5>
+            <div id="modal-duration" class="font-medium text-stone-900">-</div>
+          </div>
+        </div>
+
+        <div>
+          <h5 class="font-mono text-xs uppercase font-semibold text-stone-400 mb-1">Uang Saku / Benefit</h5>
+          <div id="modal-stipend" class="font-mono font-medium text-stone-900">-</div>
+        </div>
+
+        <div>
+          <h5 class="font-mono text-xs uppercase font-semibold text-stone-400 mb-1">Program Studi yang Memenuhi Syarat</h5>
+          <div id="modal-majors" class="text-xs text-stone-600 bg-stone-50 p-2.5 rounded border border-stone-200 font-mono">
+            -
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-8 pt-4 editorial-border-t flex items-center justify-between text-xs font-mono text-stone-400">
+        <span>ID Referensi: MGH-B2-2026</span>
+        <button onclick="document.getElementById('detail-modal').classList.add('hidden'); document.body.style.overflow='auto';" class="px-4 py-2 bg-stone-900 text-white rounded hover:bg-stone-800 transition-colors">
+          Tutup Rincian
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Application Module Script -->
+  <script type="module" src="app.js"></script>
+</body>
+</html>

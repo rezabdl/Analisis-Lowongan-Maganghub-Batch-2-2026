@@ -1,0 +1,474 @@
+nama_provinsi,nama_kabupaten,jumlah_lowongan,total_kuota,total_pelamar
+DKI Jakarta,Kota Jakarta Selatan,2674,5185,43943
+DKI Jakarta,Kota Jakarta Pusat,2198,4969,41313
+DKI Jakarta,Kota Jakarta Timur,900,1712,14766
+Jawa Timur,Kota Surabaya,752,1662,19881
+Jawa Barat,Kota Bandung,679,1295,12615
+Jawa Barat,Kab. Bekasi,621,1092,7742
+Sulawesi Selatan,Kota Makassar,484,839,12354
+Banten,Kota Tangerang,479,1039,6346
+Jawa Barat,Kota Bekasi,452,871,6807
+DKI Jakarta,Kota Jakarta Barat,408,854,6465
+Banten,Kab. Tangerang,339,948,5461
+Jawa Barat,Kab. Bogor,326,722,5027
+DKI Jakarta,Kota Jakarta Utara,324,534,3868
+Sumatera Utara,Kota Medan,316,785,11323
+Jawa Barat,Kab. Karawang,305,484,3690
+DI Yogyakarta,Kab. Sleman,279,524,4035
+Jawa Barat,Kota Depok,264,466,3241
+Jawa Barat,Kab. Tasikmalaya,255,402,1337
+Jawa Tengah,Kota Semarang,254,549,6900
+Banten,Kota Tangerang Selatan,231,410,3244
+Sumatera Barat,Kota Padang,220,476,5502
+Jawa Timur,Kab. Sidoarjo,196,449,5204
+Jawa Barat,Kota Bogor,196,342,3081
+Kepulauan Riau,Kota Batam,196,492,3786
+Jawa Barat,Kab. Kuningan,188,314,825
+Sumatera Selatan,Kota Palembang,188,371,6507
+Lampung,Kota Bandar Lampung,166,328,4491
+DI Yogyakarta,Kota Yogyakarta,141,245,3241
+Jawa Barat,Kab. Bandung,139,318,2204
+Jawa Timur,Kab. Jember,138,415,2875
+Jawa Barat,Kab. Purwakarta,136,369,1890
+Riau,Kota Pekanbaru,136,310,5018
+Bali,Kota Denpasar,134,382,2242
+Kalimantan Timur,Kota Samarinda,128,327,2681
+Kalimantan Timur,Kota Balikpapan,128,316,2050
+Jambi,Kota Jambi,112,200,3732
+Jawa Tengah,Kota Surakarta,111,272,2624
+Aceh (NAD),Kota Banda Aceh,109,242,3012
+Jawa Tengah,Kab. Banjarnegara,107,183,700
+Banten,Kota Cilegon,103,140,1483
+Jawa Timur,Kab. Gresik,102,197,2580
+Kalimantan Selatan,Kota Banjarmasin,100,240,1739
+Jawa Timur,Kota Malang,99,202,2869
+Banten,Kab. Serang,95,151,1132
+Sulawesi Utara,Kota Manado,94,173,2022
+Jawa Timur,Kab. Pasuruan,93,196,2235
+Jawa Tengah,Kab. Karanganyar,88,152,1256
+Sulawesi Tengah,Kota Palu,86,157,2150
+Kalimantan Tengah,Kota Palangkaraya,85,147,940
+Bengkulu,Kota Bengkulu,82,211,2249
+Sumatera Barat,Kota Bukittinggi,82,266,1568
+Maluku,Kota Ambon,78,180,1630
+Jawa Barat,Kab. Bandung Barat,77,108,887
+Jawa Tengah,Kab. Boyolali,77,145,1068
+Papua,Kota Jayapura,76,189,1082
+Jawa Barat,Kota Cirebon,73,180,1349
+Jawa Barat,Kab. Subang,72,157,922
+Sulawesi Selatan,Kab. Pangkajene Kepulauan,72,105,893
+Jawa Tengah,Kab. Klaten,70,182,1316
+Kalimantan Selatan,Kota Banjarbaru,69,130,1189
+Nusa Tenggara Barat (NTB),Kota Mataram,65,153,2244
+Sulawesi Barat,Kab. Mamuju,64,120,841
+Kalimantan Barat,Kota Pontianak,63,157,1921
+Lampung,Kab. Lampung Tengah,61,106,816
+Riau,Kota Dumai,60,134,990
+Sulawesi Utara,Kab. Minahasa Utara,60,98,710
+Jawa Timur,Kab. Mojokerto,58,105,1337
+Jawa Barat,Kab. Cianjur,56,98,630
+Jawa Timur,Kab. Malang,56,98,905
+Jawa Tengah,Kab. Sragen,56,147,658
+Nusa Tenggara Timur (NTT),Kota Kupang,55,138,1527
+Jawa Tengah,Kab. Sukoharjo,55,83,646
+Jawa Tengah,Kab. Banyumas,54,138,1271
+Bali,Kab. Badung,54,95,524
+Jawa Timur,Kab. Banyuwangi,52,121,948
+Banten,Kota Serang,50,140,1330
+Jawa Tengah,Kab. Pati,49,126,783
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,49,85,893
+Kepulauan Riau,Kab. Bintan,49,91,637
+Kalimantan Timur,Kab. Kutai Kartanegara,48,74,343
+DI Yogyakarta,Kab. Bantul,47,71,747
+Sulawesi Tenggara,Kota Kendari,46,74,1874
+Aceh (NAD),Kab. Aceh Barat,46,116,804
+Maluku Utara,Kota Ternate,44,75,730
+Jawa Tengah,Kab. Kendal,43,150,797
+Jawa Barat,Kab. Cirebon,43,82,575
+Jawa Timur,Kota Mojokerto,43,104,564
+Sumatera Utara,Kab. Deli Serdang,43,66,909
+Jawa Tengah,Kab. Purbalingga,41,70,489
+Jawa Tengah,Kab. Temanggung,39,81,498
+Jawa Timur,Kab. Lamongan,39,86,706
+Sulawesi Selatan,Kab. Maros,39,57,667
+Jawa Barat,Kab. Sumedang,39,100,601
+Jawa Tengah,Kab. Kudus,38,87,888
+Kalimantan Barat,Kab. Sanggau,38,75,371
+Jawa Timur,Kab. Kediri,37,69,1120
+Jawa Tengah,Kab. Magelang,37,73,639
+Jawa Timur,Kab. Jombang,36,101,1054
+Jawa Barat,Kab. Sukabumi,35,59,371
+Kalimantan Timur,Kota Bontang,35,132,1158
+Aceh (NAD),Kab. Aceh Besar,35,75,862
+Jawa Tengah,Kab. Cilacap,34,60,544
+Jawa Timur,Kota Madiun,33,107,1164
+Jawa Tengah,Kab. Jepara,33,44,587
+Lampung,Kab. Lampung Selatan,33,70,491
+Jawa Barat,Kab. Garut,32,135,590
+Kalimantan Timur,Kab. Paser,31,54,409
+Kepulauan Riau,Kota Tanjung Pinang,30,43,479
+Kalimantan Selatan,Kab. Tanah Laut,30,62,377
+Gorontalo,Kota Gorontalo,29,37,967
+Kepulauan Riau,Kab. Karimun,29,101,395
+Jawa Barat,Kota Tasikmalaya,29,59,559
+Sumatera Utara,Kab. Simalungun,28,115,601
+Kepulauan Bangka Belitung,Kab. Bangka,28,68,373
+Jawa Tengah,Kab. Semarang,28,108,727
+Jawa Tengah,Kota Salatiga,28,37,375
+Sumatera Utara,Kab. Asahan,27,110,510
+Gorontalo,Kab. Bone Bolango,27,51,732
+Riau,Kab. Bengkalis,26,54,465
+Sulawesi Selatan,Kota Palopo,25,45,643
+Sulawesi Utara,Kab. Minahasa,25,59,335
+Jawa Tengah,Kab. Rembang,25,65,385
+Aceh (NAD),Kota Lhokseumawe,25,71,710
+Jawa Timur,Kab. Blitar,24,52,502
+Maluku Utara,Kota Tidore Kepulauan,24,41,272
+Sumatera Barat,Kab. Sijunjung,23,40,285
+Papua Barat Daya,Kota Sorong,23,38,247
+Jawa Barat,Kab. Ciamis,23,39,336
+Jawa Timur,Kab. Pamekasan,23,54,454
+Kalimantan Barat,Kab. Ketapang,23,33,241
+Jawa Timur,Kab. Ponorogo,23,32,449
+DI Yogyakarta,Kab. Kulon Progo,22,33,382
+Jambi,Kab. Kerinci,22,27,440
+Jawa Timur,Kota Batu,22,50,515
+Kepulauan Bangka Belitung,Kab. Belitung,22,38,270
+Jawa Barat,Kota Cimahi,22,25,234
+Jawa Barat,Kab. Indramayu,21,54,374
+Jawa Timur,Kab. Bondowoso,21,98,358
+Sumatera Barat,Kota Payakumbuh,21,49,473
+Jawa Barat,Kota Sukabumi,21,50,375
+Sumatera Utara,Kota Gunungsitoli,21,27,164
+Kalimantan Timur,Kab. Berau,20,39,279
+Jawa Tengah,Kab. Tegal,20,30,363
+Kalimantan Selatan,Kab. Banjar,20,46,427
+Gorontalo,Kab. Gorontalo,19,45,683
+Riau,Kab. Indragiri Hulu,19,69,363
+Jawa Barat,Kab. Majalengka,19,47,349
+Banten,Kab. Pandeglang,19,33,232
+Kalimantan Barat,Kab. Kubu Raya,19,51,423
+Papua Selatan,Kab. Merauke,19,49,173
+Kepulauan Bangka Belitung,Kab. Bangka Tengah,19,33,311
+Jawa Timur,Kota Pasuruan,18,34,341
+Sumatera Barat,Kota Solok,18,41,333
+Nusa Tenggara Barat (NTB),Kab. Bima,18,47,244
+Sumatera Utara,Kota Binjai,17,27,312
+Sulawesi Selatan,Kab. Gowa,17,43,558
+Kalimantan Selatan,Kab. Kotabaru,17,34,164
+Jawa Tengah,Kab. Kebumen,17,54,336
+Aceh (NAD),Kab. Aceh Tengah,17,45,382
+Riau,Kab. Siak,17,75,522
+Nusa Tenggara Timur (NTT),Kab. Manggarai Barat,17,45,210
+Papua,Kab. Biak Numfor,17,38,132
+Jambi,Kab. Tanjung Jabung Barat,16,54,421
+Jawa Tengah,Kota Tegal,16,23,245
+Kalimantan Utara,Kota Tarakan,15,23,470
+Jawa Tengah,Kab. Brebes,15,42,323
+Kalimantan Utara,Kab. Bulungan,15,27,203
+Sumatera Utara,Kab. Karo,15,43,365
+Sulawesi Tengah,Kab. Morowali,15,41,389
+Sulawesi Selatan,Kab. Bulukumba,15,35,425
+Sumatera Utara,Kab. Toba Samosir,15,27,215
+Sulawesi Selatan,Kab. Bone,15,30,531
+Bali,Kab. Gianyar,15,32,133
+Jawa Tengah,Kab. Purworejo,15,30,230
+Sumatera Utara,Kab. Tapanuli Tengah,15,44,353
+Sulawesi Barat,Kab. Majene,15,37,414
+Kalimantan Selatan,Kab. Tabalong,15,31,199
+Sulawesi Tengah,Kab. Banggai,15,17,166
+Sulawesi Selatan,Kab. Luwu,14,33,291
+Jawa Tengah,Kab. Demak,14,100,572
+Jawa Timur,Kab. Situbondo,14,32,295
+Sulawesi Tengah,Kab. Donggala,14,27,145
+Jawa Tengah,Kota Magelang,14,31,215
+Bali,Kab. Buleleng,14,19,197
+Sumatera Barat,Kota Sawahlunto,13,30,133
+Kalimantan Utara,Kab. Nunukan,13,23,178
+Kalimantan Tengah,Kab. Kotawaringin Barat,13,34,171
+Sulawesi Selatan,Kab. Toraja Utara,13,27,336
+Aceh (NAD),Kab. Aceh Jaya,13,34,172
+Jawa Barat,Kota Banjar,13,27,157
+Kalimantan Barat,Kab. Mempawah,13,30,155
+Sulawesi Utara,Kota Kotamobagu,12,18,201
+Maluku Utara,Kab. Pulau Morotai,12,24,74
+Jawa Timur,Kab. Bangkalan,12,36,219
+Sulawesi Selatan,Kab. Luwu Timur,11,23,242
+Kalimantan Tengah,Kab. Barito Utara,11,29,119
+Sumatera Selatan,Kab. Muara Enim,11,43,369
+Papua,Kab. Jayapura,11,30,139
+Sumatera Selatan,Kab. Banyuasin,11,46,306
+Sulawesi Barat,Kab. Polewali Mandar,11,37,380
+Sulawesi Selatan,Kab. Wajo,11,45,365
+Jawa Timur,Kab. Trenggalek,11,31,268
+Sumatera Utara,Kab. Batu Bara,11,19,173
+Jambi,Kab. Bungo,11,17,285
+Sumatera Utara,Kota Tanjung Balai,11,13,133
+Aceh (NAD),Kab. Aceh Selatan,11,30,198
+Kalimantan Tengah,Kab. Lamandau,11,20,66
+Aceh (NAD),Kota Langsa,10,40,442
+Kalimantan Barat,Kota Singkawang,10,29,261
+Sumatera Utara,Kota Padangsidimpuan,10,12,311
+Gorontalo,Kab. Boalemo,10,20,164
+Jawa Timur,Kab. Tuban,10,26,346
+Kalimantan Tengah,Kab. Gunung Mas,10,16,62
+Kalimantan Tengah,Kab. Kapuas,10,30,131
+Sumatera Utara,Kota Pematangsiantar,10,34,401
+Sumatera Selatan,Kab. Ogan Komering Ulu,10,26,263
+Kalimantan Timur,Kab. Kutai Timur,10,16,104
+Sumatera Barat,Kab. Pasaman Barat,10,34,280
+Sumatera Selatan,Kab. Musi Banyuasin,10,14,182
+Jambi,Kota Sungai Penuh,10,21,354
+Kepulauan Bangka Belitung,Kab. Bangka Barat,10,17,122
+Jawa Tengah,Kab. Batang,10,18,202
+Jawa Tengah,Kab. Wonogiri,10,28,190
+Kalimantan Barat,Kab. Melawi,10,12,55
+Nusa Tenggara Timur (NTT),Kab. Belu,10,24,161
+Aceh (NAD),Kab. Aceh Utara,9,10,72
+Bengkulu,Kab. Kepahiang,9,16,123
+Bengkulu,Kab. Rejang Lebong,9,15,113
+Bengkulu,Kab. Muko Muko,9,12,69
+Bengkulu,Kab. Bengkulu Utara,9,33,283
+Sulawesi Tenggara,Kab. Buton,9,22,171
+Sulawesi Selatan,Kab. Sidenreng Rappang,9,29,236
+Sulawesi Tenggara,Kab. Buton Utara,9,17,94
+Jawa Timur,Kab. Bojonegoro,9,16,427
+Sulawesi Tengah,Kab. Parigi Moutong,9,9,30
+Jawa Tengah,Kota Pekalongan,9,18,312
+Kalimantan Barat,Kab. Kapuas Hulu,9,30,97
+Jawa Timur,Kota Probolinggo,9,12,190
+Nusa Tenggara Timur (NTT),Kab. Timor Tengah Selatan,9,32,269
+Kalimantan Barat,Kab. Sambas,9,17,171
+Jawa Barat,Kab. Pangandaran,9,11,76
+Nusa Tenggara Timur (NTT),Kab. Sumba Barat,9,13,84
+Kalimantan Selatan,Kab. Barito Kuala,9,26,138
+Jawa Timur,Kota Kediri,9,14,254
+Maluku Utara,Kab. Halmahera Tengah,9,15,54
+Sumatera Utara,Kab. Nias Utara,9,11,58
+Aceh (NAD),Kota Sabang,9,16,76
+Aceh (NAD),Kota Subulussalam,8,20,144
+Aceh (NAD),Kab. Pidie Jaya,8,14,120
+Bali,Kab. Karangasem,8,20,86
+Maluku,Kab. Seram Bagian Barat,8,11,70
+Jawa Tengah,Kab. Pemalang,8,23,217
+Maluku Utara,Kab. Halmahera Utara,8,16,51
+Lampung,Kab. Lampung Timur,8,29,213
+Lampung,Kab. Pringsewu,8,23,160
+Lampung,Kota Metro,8,9,214
+Kepulauan Riau,Kab. Natuna,8,12,65
+Sumatera Selatan,Kota Lubuk Linggau,8,15,193
+Sumatera Selatan,Kab. Ogan Komering Ulu Timur,8,15,220
+Jawa Timur,Kab. Tulungagung,8,25,487
+Riau,Kab. Kampar,8,33,223
+Kalimantan Tengah,Kab. Kotawaringin Timur,8,49,256
+Riau,Kab. Pelalawan,8,21,232
+Kalimantan Barat,Kab. Sintang,8,11,77
+Kalimantan Barat,Kab. Landak,8,13,76
+Gorontalo,Kab. Gorontalo Utara,8,16,162
+Papua Barat,Kab. Manokwari,7,12,119
+Nusa Tenggara Timur (NTT),Kab. Manggarai,7,10,102
+Nusa Tenggara Timur (NTT),Kab. Timor Tengah Utara,7,9,108
+Nusa Tenggara Timur (NTT),Kab. Sumba Timur,7,8,88
+Papua Tengah,Kab. Mimika,7,13,150
+Kalimantan Selatan,Kab. Tanah Bumbu,7,28,150
+Riau,Kab. Rokan Hulu,7,9,99
+Sumatera Barat,Kab. Solok Selatan,7,20,178
+Sulawesi Utara,Kab. Kepulauan Sangihe,7,14,74
+Sulawesi Utara,Kab. Bolaang Mongondow Timur,7,8,46
+Sulawesi Utara,Kab. Bolaang Mongondow,7,22,80
+Nusa Tenggara Barat (NTB),Kab. Lombok Utara,7,9,75
+Nusa Tenggara Barat (NTB),Kab. Lombok Barat,7,26,273
+Sulawesi Tenggara,Kab. Konawe,7,52,222
+Sumatera Selatan,Kota Prabumulih,7,14,188
+Sulawesi Tenggara,Kab. Konawe Selatan,7,24,147
+Jambi,Kab. Batanghari,7,23,239
+Aceh (NAD),Kab. Aceh Singkil,7,14,128
+Aceh (NAD),Kab. Aceh Timur,7,25,143
+DI Yogyakarta,Kab. Gunungkidul,7,19,185
+Jawa Timur,Kab. Ngawi,7,27,166
+Jawa Timur,Kab. Nganjuk,7,23,197
+Sulawesi Barat,Kab. Mamasa,7,15,115
+Sulawesi Tenggara,Kab. Kolaka,6,23,185
+Sulawesi Tengah,Kab. Toli Toli,6,21,121
+Sulawesi Tenggara,Kab. Buton Tengah,6,12,102
+Sumatera Selatan,Kota Pagar Alam,6,14,207
+Sumatera Utara,Kab. Dairi,6,23,163
+Jawa Timur,Kab. Magetan,6,14,128
+Sulawesi Utara,Kota Tomohon,6,9,84
+Bali,Kab. Tabanan,6,24,112
+Lampung,Kab. Pesisir Barat,6,9,92
+Lampung,Kab. Lampung Utara,6,28,192
+Lampung,Kab. Pesawaran,6,24,171
+Lampung,Kab. Tulang Bawang,6,22,116
+Maluku,Kepulauan Tanimbar,6,7,47
+Maluku Utara,Kab. Halmahera Barat,6,13,60
+Sumatera Selatan,Kab. Musi Rawas,6,26,201
+Sumatera Utara,Kota Sibolga,6,9,103
+Aceh (NAD),Kab. Aceh Barat Daya,6,9,98
+Aceh (NAD),Kab. Aceh Tamiang,6,21,141
+Jawa Timur,Kota Blitar,6,17,161
+Sulawesi Tenggara,Kota Bau Bau,6,8,219
+Aceh (NAD),Kab. Gayo Lues,6,12,92
+Aceh (NAD),Kab. Aceh Tenggara,5,24,153
+Jambi,Kab. Merangin,5,25,190
+Sulawesi Tengah,Kab. Sigi,5,21,143
+Maluku,Kab. Buru,5,5,12
+Maluku,Kab. Maluku Barat Daya,5,6,29
+Jawa Tengah,Kab. Grobogan,5,14,146
+Kalimantan Utara,Kab. Malinau,5,5,38
+Kepulauan Bangka Belitung,Kab. Bangka Selatan,5,6,39
+Nusa Tenggara Barat (NTB),Kab. Dompu,5,30,100
+Sulawesi Tengah,Kab. Tojo Una Una,5,19,76
+Sumatera Utara,Kab. Tapanuli Utara,5,27,176
+Sumatera Utara,Kota Tebing Tinggi,5,6,88
+Kalimantan Barat,Kab. Bengkayang,5,20,66
+Sulawesi Selatan,Kab. Pinrang,5,5,176
+Sulawesi Selatan,Kab. Sinjai,5,10,183
+Sulawesi Barat,Kab. Mamuju Utara,5,8,60
+Sulawesi Selatan,Kab. Bantaeng,5,8,128
+Riau,Kab. Rokan Hilir,5,11,71
+Riau,Kab. Kepulauan Meranti,5,9,73
+Nusa Tenggara Timur (NTT),Kab. Lembata,5,14,68
+Nusa Tenggara Timur (NTT),Kab. Sumba Barat Daya,5,8,44
+Jambi,Kab. Tanjung Jabung Timur,5,22,124
+Sumatera Utara,Kab. Labuhanbatu Selatan,5,6,81
+Jawa Timur,Kab. Lumajang,5,6,117
+Sulawesi Selatan,Kota Pare Pare,5,9,294
+Lampung,Kab. Way Kanan,5,22,90
+Aceh (NAD),Kab. Pidie,5,17,161
+Bali,Kab. Klungkung,5,19,67
+Sumatera Selatan,Kab. Ogan Komering Ilir,5,27,237
+Sumatera Barat,Kab. Kepulauan Mentawai,5,5,32
+Sulawesi Utara,Kab. Minahasa Selatan,5,10,45
+Maluku,Kota Tual,5,11,53
+Sumatera Utara,Kab. Nias Selatan,5,5,30
+Kalimantan Tengah,Kab. Seruyan,5,5,21
+Maluku,Kab. Seram Bagian Timur,4,4,29
+Sulawesi Selatan,Kab. Takalar,4,21,191
+Sulawesi Selatan,Kab. Tana Toraja,4,4,48
+Sulawesi Tenggara,Kab. Muna,4,29,189
+Bengkulu,Kab. Bengkulu Tengah,4,7,56
+Aceh (NAD),Kab. Bireuen,4,36,217
+Sumatera Utara,Kab. Tapanuli Selatan,4,21,231
+Sulawesi Tenggara,Kab. Wakatobi,4,10,75
+Gorontalo,Kab. Pahuwato,4,12,81
+Sumatera Utara,Kab. Labuhanbatu,4,16,162
+Jawa Timur,Kab. Pacitan,4,13,122
+Sumatera Utara,Kab. Humbang Hasundutan,4,8,68
+Sulawesi Tengah,Kab. Poso,4,20,84
+Sumatera Barat,Kab. Padang Pariaman,4,21,161
+Sumatera Selatan,Kab. Ogan Ilir,4,22,181
+Bali,Kab. Jembrana,4,16,58
+Aceh (NAD),Kab. Simeulue,4,7,59
+Sumatera Selatan,Kab. Musi Rawas Utara,4,17,96
+Sumatera Barat,Kab. Agam,4,20,167
+Sumatera Selatan,Kab. Ogan Komering Ulu Selatan,4,23,138
+Lampung,Kab. Lampung Barat,4,18,103
+Maluku,Kab. Buru Selatan,4,5,36
+Jawa Tengah,Kab. Wonosobo,4,8,132
+Maluku Utara,Kab. Halmahera Selatan,4,7,27
+Nusa Tenggara Barat (NTB),Kab. Lombok Tengah,4,22,196
+Sumatera Barat,Kab. Dharmasraya,4,20,144
+Nusa Tenggara Timur (NTT),Kab. Ende,4,5,93
+Papua Barat Daya,Kab. Sorong,4,14,61
+Sulawesi Barat,Kab. Mamuju Tengah,4,21,89
+Kalimantan Tengah,Kab. Barito Selatan,4,4,30
+Kalimantan Selatan,Kab. Hulu Sungai Tengah,4,25,121
+Kalimantan Tengah,Kab. Barito Timur,4,8,63
+Nusa Tenggara Timur (NTT),Kab. Malaka,4,15,98
+Kepulauan Riau,Kab. Kepulauan Anambas,4,5,40
+Sumatera Utara,Kab. Nias Barat,4,4,28
+Nusa Tenggara Barat (NTB),Kab. Lombok Timur,3,20,309
+Jawa Tengah,Kab. Pekalongan,3,19,231
+Sumatera Selatan,Kab. Empat Lawang,3,13,81
+Bali,Kab. Bangli,3,7,41
+Sulawesi Utara,Kab. Bolaang Mongondow Utara,3,3,31
+Sumatera Selatan,Kab. Lahat,3,4,148
+Kepulauan Bangka Belitung,Kab. Belitung Timur,3,7,34
+Maluku Utara,Kab. Halmahera Timur,3,5,8
+Kalimantan Timur,Kab. Kutai Barat,3,8,49
+Sulawesi Utara,Kota Bitung,3,5,65
+Papua Barat,Kab. Kaimana,3,4,13
+Papua Barat,Kab. Teluk Bintuni,3,9,30
+Sulawesi Tenggara,Kab. Kolaka Utara,3,16,72
+Sulawesi Tenggara,Kab. Bombana,3,18,67
+Bengkulu,Kab. Bengkulu Selatan,3,3,48
+Bengkulu,Kab. Kaur,3,5,53
+Riau,Kab. Indragiri Hilir,3,18,118
+Riau,Kab. Kuantan Singingi,3,18,102
+Jambi,Kab. Tebo,3,19,147
+Maluku,Kab. Maluku Tengah,3,6,71
+Nusa Tenggara Barat (NTB),Kab. Sumbawa Barat,3,10,76
+Nusa Tenggara Barat (NTB),Kab. Sumbawa,3,19,203
+Maluku,Kab. Maluku Tenggara,3,7,44
+Sumatera Utara,Kab. Mandailing Natal,3,8,166
+Lampung,Kab. Mesuji,3,18,65
+Sulawesi Utara,Kab. Kepulauan Siau Tagulandang Biaro (Sitaro),2,2,14
+Aceh (NAD),Kab. Nagan Raya,2,16,66
+Sulawesi Utara,Kab. Bolaang Mongondow Selatan,2,4,30
+Sumatera Barat,Kab. Tanah Datar,2,18,124
+Sumatera Utara,Kab. Serdang Bedagai,2,18,82
+Papua Pegunungan,Kab. Jayawijaya,2,4,11
+Papua Barat Daya,Kab. Sorong Selatan,2,4,15
+Sulawesi Selatan,Kab. Soppeng,2,18,121
+Sumatera Selatan,Kab. Penukal Abab Lematang Ilir,2,10,66
+Jawa Timur,Kab. Madiun,2,3,81
+Maluku Utara,Kab. Kepulauan Sula,2,5,19
+Kalimantan Tengah,Kab. Murung Raya,2,2,11
+Kalimantan Timur,Kab. Penajam Paser Utara,2,4,35
+Sumatera Barat,Kab. Solok,2,20,127
+Lampung,Kab. Tanggamus,2,16,75
+Sumatera Utara,Kab. Padang Lawas Utara,2,3,86
+Sumatera Utara,Kab. Samosir,2,2,44
+Lampung,Kab. Tulang Bawang Barat,2,17,78
+Maluku,Kab. Kepulauan Aru,2,2,12
+Kalimantan Tengah,Kab. Pulang Pisau,2,16,43
+Kalimantan Tengah,Kab. Sukamara,2,3,11
+Sumatera Barat,Kab. Pasaman,2,8,83
+Sumatera Barat,Kab. Pesisir Selatan,2,21,129
+Banten,Kab. Lebak,2,11,49
+Sumatera Barat,Kota Pariaman,2,3,31
+Sulawesi Utara,Kab. Kepulauan Talaud,2,4,23
+Jambi,Kab. Muaro Jambi,2,4,62
+Papua Barat,Kab. Fak Fak,2,3,19
+Nusa Tenggara Timur (NTT),Kab. Rote Ndao,2,16,42
+Papua Tengah,Kab. Nabire,2,2,12
+Kalimantan Barat,Kab. Kayong Utara,2,9,25
+Nusa Tenggara Timur (NTT),Kab. Sikka,2,16,101
+Nusa Tenggara Timur (NTT),Kab. Alor,2,17,72
+Jambi,Kab. Sarolangun,2,3,60
+Nusa Tenggara Timur (NTT),Kab. Flores Timur,2,16,59
+Papua,Kab. Keerom,2,5,23
+Nusa Tenggara Timur (NTT),Kab. Sumba Tengah,2,7,24
+Sulawesi Tenggara,Kab. Konawe Utara,2,10,38
+Sulawesi Tenggara,Kab. Kolaka Timur,2,16,64
+Sulawesi Tenggara,Kab. Buton Selatan,2,2,24
+Aceh (NAD),Kab. Bener Meriah,2,7,59
+Kalimantan Selatan,Kab. Tapin,2,16,53
+Sumatera Utara,Kab. Langkat,2,17,127
+Jawa Timur,Kab. Probolinggo,2,11,102
+Jawa Timur,Kab. Sumenep,2,7,33
+Sulawesi Selatan,Kab. Enrekang,2,2,20
+Sulawesi Selatan,Kab. Jeneponto,2,18,114
+Sulawesi Selatan,Kab. Barru,2,22,156
+Kalimantan Tengah,Kab. Katingan,2,4,25
+Kalimantan Selatan,Kab. Balangan,2,3,23
+Kalimantan Selatan,Kab. Hulu Sungai Utara,2,2,42
+Kalimantan Selatan,Kab. Hulu Sungai Selatan,2,11,55
+Sumatera Barat,Kota Padang Panjang,1,1,17
+Kalimantan Utara,Kab. Tana Tidung,1,2,11
+Sumatera Barat,Kab. Lima Puluh Kota,1,1,11
+Sumatera Utara,Kab. Padang Lawas,1,2,34
+Sulawesi Utara,Kab. Minahasa Tenggara,1,2,5
+Papua,Kab. Kepulauan Yapen,1,1,3
+Papua Barat,Kab. Teluk Wondama,1,2,6
+Papua Barat Daya,Kab. Raja Ampat,1,1,3
+Papua Barat Daya,Kab. Tambrauw,1,1,3
+Nusa Tenggara Timur (NTT),Kab. Sabu Raijua,1,2,11
+Nusa Tenggara Timur (NTT),Kab. Nagekeo,1,5,38
+Nusa Tenggara Timur (NTT),Kab. Kupang,1,15,73
+Papua,Kab. Waropen,1,1,2
+Jawa Timur,Kab. Sampang,1,1,12
+Sumatera Utara,Kab. Labuhanbatu Utara,1,1,8
+Sulawesi Tengah,Kab. Banggai Laut,1,1,9
+Sulawesi Tengah,Kab. Morowali Utara,1,2,7
