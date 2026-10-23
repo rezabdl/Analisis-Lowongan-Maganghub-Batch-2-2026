@@ -161,9 +161,9 @@ div[data-testid="stTabs"] [data-baseweb="tab-list"] {
     flex-wrap: wrap !important;
 }
 
-/* Tab Inaktif (Default) */
-div[data-testid="stTabs"] button[data-baseweb="tab"],
-div[data-testid="stTabs"] button[role="tab"] {
+/* 1. Base Button Tab Inaktif */
+div[data-testid="stTabs"] button[role="tab"],
+div[data-testid="stTabs"] button[data-baseweb="tab"] {
     height: 2.6rem !important;
     padding: 0 1.15rem !important;
     border-radius: 6px !important;
@@ -172,18 +172,18 @@ div[data-testid="stTabs"] button[role="tab"] {
     transition: all 0.15s ease-in-out !important;
     margin: 0 !important;
     outline: none !important;
+    opacity: 1 !important;
 }
 
-/* Pastikan semua teks di tab inaktif SELALU berwarna gelap dan kontras */
-div[data-testid="stTabs"] button[data-baseweb="tab"] *,
-div[data-testid="stTabs"] button[role="tab"] *,
-div[data-testid="stTabs"] button[data-baseweb="tab"] p,
+/* 2. PAKSA SEMUA ELEMEN TEKS DI TAB INAKTIF AGAR TIDAK TRANSPARAN */
+div[data-testid="stTabs"] button[role="tab"] [data-testid="stMarkdownContainer"],
+div[data-testid="stTabs"] button[role="tab"] [data-testid="stMarkdownContainer"] p,
 div[data-testid="stTabs"] button[role="tab"] p,
-div[data-testid="stTabs"] button[data-baseweb="tab"] span,
 div[data-testid="stTabs"] button[role="tab"] span,
-div[data-testid="stTabs"] button[data-baseweb="tab"] div,
-div[data-testid="stTabs"] button[role="tab"] div {
+div[data-testid="stTabs"] button[role="tab"] div,
+div[data-testid="stTabs"] button[role="tab"] {
     color: #17324D !important;
+    -webkit-text-fill-color: #17324D !important; /* Mencegah font fill transparan */
     font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
     font-size: 0.85rem !important;
     font-weight: 600 !important;
@@ -191,40 +191,34 @@ div[data-testid="stTabs"] button[role="tab"] div {
     visibility: visible !important;
 }
 
-/* Efek Hover pada Tab Inaktif */
-div[data-testid="stTabs"] button[data-baseweb="tab"]:hover,
+/* 3. Efek Hover */
 div[data-testid="stTabs"] button[role="tab"]:hover {
     background-color: #E6F4F4 !important;
     border-color: #167C80 !important;
 }
 
-div[data-testid="stTabs"] button[data-baseweb="tab"]:hover *,
+div[data-testid="stTabs"] button[role="tab"]:hover [data-testid="stMarkdownContainer"] p,
 div[data-testid="stTabs"] button[role="tab"]:hover * {
     color: #167C80 !important;
+    -webkit-text-fill-color: #167C80 !important;
 }
 
-/* Tab Aktif (Selected) */
-div[data-testid="stTabs"] button[data-baseweb="tab"][aria-selected="true"],
+/* 4. Tab Aktif (Selected) */
 div[data-testid="stTabs"] button[role="tab"][aria-selected="true"] {
     background-color: #17324D !important;
     border-color: #17324D !important;
     box-shadow: 0 2px 4px rgba(23, 50, 77, 0.15) !important;
 }
 
-div[data-testid="stTabs"] button[data-baseweb="tab"][aria-selected="true"] *,
-div[data-testid="stTabs"] button[role="tab"][aria-selected="true"] *,
-div[data-testid="stTabs"] button[data-baseweb="tab"][aria-selected="true"] p,
-div[data-testid="stTabs"] button[role="tab"][aria-selected="true"] p,
-div[data-testid="stTabs"] button[data-baseweb="tab"][aria-selected="true"] span,
-div[data-testid="stTabs"] button[role="tab"][aria-selected="true"] span,
-div[data-testid="stTabs"] button[data-baseweb="tab"][aria-selected="true"] div,
-div[data-testid="stTabs"] button[role="tab"][aria-selected="true"] div {
+div[data-testid="stTabs"] button[role="tab"][aria-selected="true"] [data-testid="stMarkdownContainer"] p,
+div[data-testid="stTabs"] button[role="tab"][aria-selected="true"] * {
     color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
     font-weight: 700 !important;
     opacity: 1 !important;
 }
 
-/* Hilangkan garis merah bawaan (tab-highlight) */
+/* 5. Hilangkan garis merah bawaan */
 div[data-testid="stTabs"] [data-baseweb="tab-highlight"],
 div[data-testid="stTabs"] [data-baseweb="tab-border"],
 [data-baseweb="tab-highlight"] {
@@ -232,8 +226,6 @@ div[data-testid="stTabs"] [data-baseweb="tab-border"],
     height: 0px !important;
     visibility: hidden !important;
     opacity: 0 !important;
-    background-color: transparent !important;
-    border: none !important;
 }
 
 /* -------------------------------------------------------------------------- */
